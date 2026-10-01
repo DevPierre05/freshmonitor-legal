@@ -1,7 +1,7 @@
 # Terms of Service
 
 **Last updated:** May 2026  
-**App:** FreshTrack  
+**App:** FreshMonitor  
 **Developer:** Peter Osei  
 **Contact:** pierrobj5@gmail.com  
 
@@ -9,27 +9,27 @@
 
 ## Agreement to Terms
 
-By downloading, installing, or using FreshTrack ("the App"), you agree to these Terms of Service ("Terms"). If you do not agree, you should not use the App.
+By downloading, installing, or using FreshMonitor ("the App"), you agree to these Terms of Service ("Terms"). If you do not agree, you should not use the App.
 
 ---
 
 ## 1. Description of Service
 
-FreshTrack is a food expiry tracking application designed to help you:
+FreshMonitor is a food expiry tracking application designed to help you:
 
-- Track food items and expiry dates  
-- Receive reminders before items expire  
-- Scan product barcodes to add items  
-- View usage statistics  
+- Track food items and expiry dates
+- Receive reminders before items expire
+- Scan product barcodes to add items
+- View usage statistics
 
-FreshTrack is offered in free and paid tiers.
+FreshMonitor is offered in free and paid tiers.
 
 ---
 
 ### 1.1 Free and Pro Features
 
 | Tier | Features |
-|------|--------|
+|------|----------|
 | **Free** | Core tracking features, limited barcode scans, and advertisements |
 | **Pro** | Unlimited barcode scans, full features, and no advertisements |
 
@@ -39,9 +39,9 @@ FreshTrack is offered in free and paid tiers.
 
 Certain features may be limited in the free version of the App.
 
-- Barcode scanning may be restricted to a set number of uses per period  
-- Limits may reset periodically (for example, monthly)  
-- Limits may change over time  
+- Barcode scanning may be restricted to a set number of uses per period
+- Limits may reset periodically (for example, monthly)
+- Limits may change over time
 
 We reserve the right to introduce, modify, or remove feature limits at any time.
 
@@ -51,11 +51,11 @@ We reserve the right to introduce, modify, or remove feature limits at any time.
 
 ### 2.1 Available Plans
 
-FreshTrack Pro may be offered as:
+FreshMonitor Pro may be offered as:
 
-- Monthly subscription  
-- Annual subscription  
-- Lifetime purchase (if available)  
+- Monthly subscription
+- Annual subscription
+- Lifetime purchase (if available)
 
 Prices are shown in your local currency at the time of purchase.
 
@@ -77,8 +77,8 @@ Subscriptions automatically renew unless cancelled at least 24 hours before the 
 
 You can manage or cancel your subscription at any time:
 
-- **iOS:** Settings → Apple ID → Subscriptions  
-- **Android:** Google Play Store → Subscriptions  
+- **iOS:** Settings → Apple ID → Subscriptions
+- **Android:** Google Play Store → Subscriptions
 
 Cancellation takes effect at the end of the current billing period.
 
@@ -88,8 +88,8 @@ Cancellation takes effect at the end of the current billing period.
 
 All purchases are handled by Apple or Google. We do not process refunds directly.
 
-- iOS: reportaproblem.apple.com  
-- Android: Google Play Help  
+- iOS: reportaproblem.apple.com
+- Android: Google Play Help
 
 ---
 
@@ -107,20 +107,20 @@ We may change pricing at any time. If you have an active subscription, you will 
 
 ## 3. Advertising
 
-The free version of FreshTrack displays advertisements provided by third-party ad networks.
+The free version of FreshMonitor displays advertisements provided by third-party ad networks.
 
 These services may use device identifiers and other data to display relevant ads.
 
-Upgrading to FreshTrack Pro removes advertisements.
+Upgrading to FreshMonitor Pro removes advertisements.
 
 ---
 
 ## 4. Third-Party Services
 
-FreshTrack relies on third-party services to provide certain functionality.
+FreshMonitor relies on third-party services to provide certain functionality.
 
 | Service | Purpose |
-|--------|--------|
+|--------|---------|
 | Google AdMob | Advertising |
 | RevenueCat | Subscription management |
 | Open Food Facts | Barcode product data |
@@ -145,17 +145,17 @@ We do not guarantee the accuracy, completeness, or reliability of this informati
 
 You agree not to:
 
-- Use the App for unlawful purposes  
-- Attempt to reverse engineer or modify the App  
-- Interfere with the App’s operation  
-- Attempt to bypass feature limits or payment systems  
-- Use automated tools to access or scrape the App  
+- Use the App for unlawful purposes
+- Attempt to reverse engineer or modify the App
+- Interfere with the App's operation
+- Attempt to bypass feature limits or payment systems
+- Use automated tools to access or scrape the App
 
 ---
 
 ## 7. Intellectual Property
 
-FreshTrack, including its design, branding, and software, is owned by Peter Osei.
+FreshMonitor, including its design, branding, and software, is owned by Peter Osei.
 
 You may not copy, distribute, or modify any part of the App without permission.
 
@@ -175,15 +175,15 @@ You are responsible for managing and backing up your data.
 
 ## 9. Disclaimer of Warranties
 
-FreshTrack is provided "as is" without warranties of any kind.
+FreshMonitor is provided "as is" without warranties of any kind.
 
 We do not guarantee:
 
-- That the App will always be available or error-free  
-- That expiry tracking is fully accurate  
-- That third-party data is correct  
+- That the App will always be available or error-free
+- That expiry tracking is fully accurate
+- That third-party data is correct
 
-FreshTrack is a convenience tool. You should always check actual product labels before consuming food.
+FreshMonitor is a convenience tool. You should always check actual product labels before consuming food.
 
 ---
 
@@ -191,11 +191,11 @@ FreshTrack is a convenience tool. You should always check actual product labels 
 
 To the maximum extent permitted by law, we are not liable for:
 
-- Indirect or consequential damages  
-- Loss of data or profits  
-- Health outcomes related to food consumption  
-- Errors in third-party data  
-- Service interruptions  
+- Indirect or consequential damages
+- Loss of data or profits
+- Health outcomes related to food consumption
+- Errors in third-party data
+- Service interruptions
 
 Our total liability is limited to the amount you paid for the App in the past 12 months, or £10, whichever is greater.
 
@@ -205,9 +205,9 @@ Our total liability is limited to the amount you paid for the App in the past 12
 
 We may:
 
-- Modify or discontinue features  
-- Introduce or change feature limits  
-- Require updates to continue using the App  
+- Modify or discontinue features
+- Introduce or change feature limits
+- Require updates to continue using the App
 
 We will provide notice where reasonably possible.
 
@@ -223,7 +223,7 @@ You may stop using the App at any time by uninstalling it.
 
 ## 13. Governing Law
 
-These Terms are governed by the laws of the United Kingdom.
+These Terms are governed by the laws of England and Wales.
 
 Nothing in these Terms affects your statutory consumer rights.
 
@@ -244,12 +244,12 @@ Continued use of the App means you accept the updated Terms.
 If you have questions about these Terms:
 
 **Email:** pierrobj5@gmail.com  
-**Response time:** within 48 hours  
+**Response time:** within 48 hours
 
 ---
 
 ## 16. Entire Agreement
 
-These Terms, together with the Privacy Policy, form the entire agreement between you and the developer regarding FreshTrack.
+These Terms, together with the Privacy Policy, form the entire agreement between you and the developer regarding FreshMonitor.
 
 If any part of these Terms is found to be unenforceable, the remaining sections will continue in effect.
